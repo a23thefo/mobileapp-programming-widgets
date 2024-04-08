@@ -29,4 +29,12 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/knapp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Click Here!">
+
+    </Button>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
